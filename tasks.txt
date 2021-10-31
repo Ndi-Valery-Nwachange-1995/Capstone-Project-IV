@@ -1,0 +1,4 @@
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 2021-11-27, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 2019-10-25, Yes
+ndi, my firs program, my first program was hello world in python, 2021-09-10, 2021-08-05, No
+john, my firs program, my first program was hello world in python, 2021-09-10, 2021-08-05, No
